@@ -3,7 +3,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/sabina-olivera-martínez/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/sabinaoliveram/" title="Instagram Profile"><img width="22" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/sabinaoliveram/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
 <p align="center">
@@ -28,7 +28,7 @@
 <p align="center">
   <code><img title="R" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/R.svg"></code>
   <code><img title="Stata" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/stata.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/SabinaOlivera/zumrudu-anka/blob/master/images/python.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
   <code><img title="ArcGis" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/arcgis.svg"></code>
   <code><img title="VBA" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/vba.svg"></code>
   <code><img title="SQL" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/sql.png"></code>
