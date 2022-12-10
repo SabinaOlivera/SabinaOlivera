@@ -26,15 +26,13 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="R" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/R.svg"></code>
-  <code><img title="Stata" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/stata.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python.svg"></code>
+  <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
   <code><img title="ArcGis" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/arcgis.svg"></code>
   <code><img title="VBA" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/vba.svg"></code>
   <code><img title="SQL" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/sql.png"></code>
   <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
-
+ <code><img title="Stata" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/stata.svg"></code>
 </p>
 
 <hr>
