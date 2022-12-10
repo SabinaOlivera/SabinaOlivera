@@ -27,7 +27,7 @@
 
 <p align="center">
   
- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  [MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
   <code><img title="VBA" height="25" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/vba.svg"></code>
   <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
