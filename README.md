@@ -2,7 +2,7 @@
 <h3 align="center">Hello there, I'm Sabina 👋</h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/sabina-olivera-martínez/" title="LinkedIn"><img width="22" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/sabina-olivera-martínez/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/sabinaoliveram/" title="Instagram Profile"><img width="22" src="https://github.com/SabinaOlivera/SabinaOlivera/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
