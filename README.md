@@ -12,9 +12,9 @@
   <br>
   🎓 I'm studying Economics in PUCP
   <br>
-  💻 I love writing, dancing and spending time with my dogs
-  <br>
   🔬 I’m currently working as an Actuarial Intern in an Insurance Company in Peru. 
+  <br>
+  💻 I love writing, reading and spending time with my dogs
   <br>
   💬 Ask me about <a href="https://github.com/SabinaOlivera/SabinaOlivera/issues" title="Issues">Here</a>
   <br>
