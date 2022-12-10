@@ -7,12 +7,14 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Sabina, Economics student from Peru.
+  Hi, I'm Sabina, Economics student from Lima, Peru. I'm in the last year of my undergraduate degree. Currently, I'm learning programming languages and database management. The software I use the most is SQL and Stata, since I've been doing my thesis with the latter, and R for managing databases at work.
   <br>
   <br>
-  🎓 I'm studying Economics in PUCP
+  🎓 I'm studying Economics in PUCP.
   <br>
   🔬 I’m currently working as an Actuarial Intern in an Insurance Company in Peru. 
+  <br>
+  🔬 Also, I'm member of an organization of Economics students from PUCP: "Económica". As part of my duties, I write informative notes on economics and finance. 
   <br>
   💻 I love writing, reading and spending time with my dogs
   <br>
